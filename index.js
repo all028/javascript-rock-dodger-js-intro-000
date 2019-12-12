@@ -88,7 +88,7 @@ function createRock(x) {
      rock.className = 'rock'
      rock.style.left = `${x}px`
 
-    
+
 
     /**
      * Otherwise, if the rock hasn't reached the bottom of
