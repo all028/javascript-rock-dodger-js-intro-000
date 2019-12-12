@@ -119,7 +119,7 @@ function createRock(x) {
  */
 function endGame() {
   var gameInterval = null
-  
+
   alert('YOU LOSE!')
 }
 
