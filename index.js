@@ -128,13 +128,13 @@ function moveDodger(e) {
    */
 //   $(document).on('keydown', function(e) {
    if (e.which == LEFT_ARROW){
-     moveDodgerRight()
+     moveDodgerLeft()
    }
   // });
 
   // $(document).on('keydown', function(e) {
    if (e.which == RIGHT_ARROW){
-     moveDodgerLeft()
+     moveDodgerRight()
    }
   // });
 }
